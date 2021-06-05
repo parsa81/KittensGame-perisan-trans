@@ -1,5 +1,5 @@
 {
-    "console.intro": "You are a kitten in a catnip forest.",
+    "console.intro": "شما یک بچه گربه در جنگل نعنا ی گربه ای هستید.",
 
     "achievements.header": "Achievements: {0} out of {1}",
     "achievements.msg.unlock": "Achievement unlocked: {0}!",
@@ -222,9 +222,9 @@
     "buildings.group.industry": "Industry",
     "buildings.group.megastructures": "Mega Structures",
     "buildings.group.other": "Other",
-    "buildings.group.population": "Population",
-    "buildings.group.resource": "Resources",
-    "buildings.group.science": "Science",
+    "buildings.group.population": "جمعیت",
+    "buildings.group.resource": "منابع",
+    "buildings.group.science": "علم",
     "buildings.group.storage": "Storage",
     "buildings.group.zebraBuildings": "Zebras",
     "buildings.upgrade.confirmation.msg": "Do you want to upgrade this building?\n\nYou will lose all of those currently built.",
